@@ -100,7 +100,7 @@ animation: MyGrad 30s ease infinite; }
   opacity: 1;
   right: 0;
 }
-#wrapper{
+.slide{
  width: 100%;
  height 100%
 }
