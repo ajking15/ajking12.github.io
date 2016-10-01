@@ -45,7 +45,8 @@ animation: MyGrad 30s ease infinite; }
 	width: 75%
 }
 #my-navbar {
-	opacity: 0.8;
+    opacity: 0.8;
+    width: 100%;
     box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2);
 
 }
